@@ -1,0 +1,5 @@
+libraries:
+playsound >= 1.2.2
+keyboard >= 0.13.5
+pyqt5 >= 5.9.2
+sqlite3 >= 3.31.3
