@@ -1,0 +1,6 @@
+CREATE TABLE "key_music" (
+	"id"	INTEGER NOT NULL,
+	"key"	TEXT NOT NULL,
+	"music_path"	TEXT NOT NULL,
+	PRIMARY KEY("id","key","music_path")
+);
